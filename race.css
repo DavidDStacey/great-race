@@ -1,0 +1,49 @@
+body
+{
+    background-color: red;
+}
+
+span
+{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#spiderman
+{
+    position: fixed;
+    top: 200px;
+    width: 100px;
+}
+
+#thanos
+{
+    position: fixed;
+    top: 300px;
+    width: 100px;
+}
+
+#loser
+{
+    width: 500px;
+}
+
+#winner
+{
+    width: 500px;
+}
+
+#buttonG
+{
+    position: relative;
+    top: 0px;
+    width: 100px;
+    visibility: hidden;
+}
+
+#buttonR
+{
+    position: relative;
+    top: 0px;
+    width: 100px;  
+}
